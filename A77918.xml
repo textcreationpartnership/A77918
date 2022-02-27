@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Power juridicent, and juritenent: or, power of law-making, and law-administering, discussed; and humbly presented to the Parliament of England; By William Ball Esq.</title>
+            <author>Ball, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77918</idno>
+            <idno type="STC">Wing B593</idno>
+            <idno type="STC">Thomason E612_18</idno>
+            <idno type="STC">ESTC R206497</idno>
+            <idno type="EEBO-CITATION">99865644</idno>
+            <idno type="PROQUEST">99865644</idno>
+            <idno type="VID">165730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 94:E612[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Power juridicent, and juritenent: or, power of law-making, and law-administering, discussed; and humbly presented to the Parliament of England; By William Ball Esq.</title>
+                  <author>Ball, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.T.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber. 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Law --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165730:1" rendition="simple:additions"/>
+            <p> Power <hi>JURIDICENT,</hi> and <hi>JURITENENT:</hi> OR, Power of Law-making, and Law-adminiſtring, DISCUSSED;</p>
+            <p>And Humbly Preſented to the PARLIAMENT OF ENGLAND, By <hi>WILLIAM BALL</hi> Eſq.</p>
+            <figure>
+               <figDesc>woodcut of water fowl in flourishing border</figDesc>
+            </figure>
+            <p>Printed by <hi>H. T.</hi> 1650.</p>
+            <pb facs="tcp:165730:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:165730:2"/>
+            <head>Power <hi>Iuridicent,</hi> and <hi>Iuritenent,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Emporall Power, or Dominion, is eyther <hi>Naturall</hi> or <hi>Nationall: Naturall,</hi> as that of Parents over their Children, for their education and preſervation, (for God hath ordayned Parents not only Tem<g ref="char:EOLhyphen"/>porary inſtruments of <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing,</hi> but alſo of <hi>well-being;</hi> in which Office they ought to imitate the Heavenly ſpirits, amongſt whom the ſuperior illu<g ref="char:EOLhyphen"/>minate by Intellectuall communication * the inferior in <note place="margin">Verbo men<g ref="char:EOLhyphen"/>tis.</note> Degree with perpetuall Amity, not with Rigour and ſeverity, as it is probable the Divels doe domineer one over the other, for our Saviour ſaith, they have a <note place="margin">A note for Rulers.</note> Kingdome:) <hi>Nationall</hi> Power is that, which after the fall of Man, God by his fore knowledge and providence for the Rule of worldly affayres preordayned, and orde<g ref="char:EOLhyphen"/>red to be changed according <hi>to place, time, and circumſtan<g ref="char:EOLhyphen"/>ces, &amp;c.</hi> This <hi>Nationall</hi> power is either <hi>Rationall</hi> or <hi>Impe<g ref="char:EOLhyphen"/>riall: Rationall,</hi> as when a People, or Province of <hi>ſelf-ac<g ref="char:EOLhyphen"/>cord,</hi> * agree to have ſuch <hi>Lawes and Rules,</hi> as they con<g ref="char:EOLhyphen"/>ceive <note place="margin">In this is in<g ref="char:EOLhyphen"/>cluded the Magiſteriall Power of Maſters o<g ref="char:EOLhyphen"/>ver Appren<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces and ſervants.</note> convenient for their Good and Preſervation, to be adminiſtred by one or more. Such was the ordinary Government of the Jews; ſometime by Princes, or ra<g ref="char:EOLhyphen"/>ther Elders of the People, ſometime by Judges, ſome<g ref="char:EOLhyphen"/>time by Kings, ſometime by a great Councell (or San<g ref="char:EOLhyphen"/>hedrim) ſomewhat reſembling the State of Venice, ſometime by Dukes or Chiefetains: and ſuch was and is to this day the ſeverall Government of the Nations,
+<pb n="2" facs="tcp:165730:3"/> whom God admitteth to make uſe of ordinary meanes (however determined hy his Divine will) for their Po<g ref="char:EOLhyphen"/>liticke and Civill welfare: ſo God admitted the Ro<g ref="char:EOLhyphen"/>mans to change their Government from Kings, to Con<g ref="char:EOLhyphen"/>ſuls, to Triumviri, Decemviri, and the like; too tedi<g ref="char:EOLhyphen"/>ous it were to inſtance the ſeverall Preſidents, both an<g ref="char:EOLhyphen"/>cient and moderne, which Hiſtory, and the Records of Nations abundantly manifeſt. Power <hi>Imperiall</hi> is that which many times is induced upon a Nation, partly by force, and partly by <hi>Acceptation</hi> or <hi>Condition.</hi> As when a People or Province being invaded, and in part actu<g ref="char:EOLhyphen"/>ally overcome, or otherwiſe in great danger to bee en<g ref="char:EOLhyphen"/>ſlaved by a conquering Enemy, doe ſubmit themſelves to his yoak, upon ſuch conditions as their exigency and neceſſity will admit: ſo did the Jewes and many other Provinces ſubmit themſelves to the Romans: &amp; amongſt other Nations the Engliſh, to William Duke of Nor<g ref="char:EOLhyphen"/>mandy, afterwards called the Conqueror. This Power <hi>Imperiall,</hi> is called <hi>Legall,</hi> for that it is comprehended by certaine <hi>Lawes or Rules, compacts, and conditions:</hi> under this <hi>Imperiall</hi> or <hi>Legall</hi> Power, doe all Nations Chriſti<g ref="char:EOLhyphen"/>an, or the major part live: albeit ſome in better, ſome in worſe conditions of ſervitude: for the Polack Nobi<g ref="char:EOLhyphen"/>lity are maſters over their Kings; and the French Kings are maſters (I will not ſay Tyrants) over their Peaſant ſubjects: in our Country of England, heertofore Kings had the higheſt power <hi>Juritenen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> or Law-adminiſtring, and a partiall Power <hi>Juridicent,</hi> or Law-ſpeaking; for the Requeſts and deſires of the Commons were heere<g ref="char:EOLhyphen"/>tofore by Kings ratified or conſummate: Notwithſtan<g ref="char:EOLhyphen"/>ding the Houſe of Commons being the Peoples Repre<g ref="char:EOLhyphen"/>ſentatives, were the chiefe <hi>Juridicent, or Law-ſpeaking</hi>
+               <pb n="3" facs="tcp:165730:3"/> 
+               <hi>Power;</hi> for our Kings were tied by Oath to propagate and conſerve <hi>Juſtas Leges &amp; conſuetudines quas vulgus ele<g ref="char:EOLhyphen"/>gerit,</hi> the juſt Lawes and cuſtomes which the People <hi>may or can chuſe heerafter:</hi> The Verb muſt needs bee con<g ref="char:EOLhyphen"/>ſtrued in the Potentiall mood, not in the Optative nor Subjunctive, becauſe there is neither Adverb nor Con<g ref="char:EOLhyphen"/>junction; and in the Potentiall mood it muſt needs be conſtrued in the Future tenſe, otherwiſe it were againſt Reaſon, that any King ſhould ſwear to conſerve <hi>Res in<g ref="char:EOLhyphen"/>definitas quondam in potentia praeterita: viz.</hi> the juſt Laws which the People might have choſen, would have cho<g ref="char:EOLhyphen"/>ſen, ſhould have choſen, or ought to have choſen; eve<g ref="char:EOLhyphen"/>ry Oath in nature of compact or condition, ought to be <hi>de Re determinabili,</hi> of a thing Determinable, not of a thing indeterminable never in Act, nor producible into Act, <hi>the People being not able to chuſe, their choice being paſt</hi> (if <hi>elegerit</hi> bee taken in the preterperfect tenſe) <hi>nor the King able to conſerve what they might have choſen, they omit<g ref="char:EOLhyphen"/>ting to chuſe it.</hi> In other things concerning this ſubject, in my Anſwer to Mr. <hi>David Jenkins</hi> his <hi>Tenents,</hi> I have ſufficiently cleared all doubts, (as I ſuppoſe, in that no Anſwer or Replication is made to me by any) and alſo made it appeare, (at what time there was a King) that <hi>ſalus Populi,</hi> not <hi>Majeſtas Imperii,</hi> was the ultimate object and end of Government: and that the People their Repreſentatives, or Truſtees, are and ought to bee Jud<g ref="char:EOLhyphen"/>ges of the Lawes <hi>Jure primitivo,</hi> or <hi>primario:</hi> for confir<g ref="char:EOLhyphen"/>mation of this laſt, and the Peoples intereſt, I now fur<g ref="char:EOLhyphen"/>ther argue: Firſt, <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+            </p>
+            <p>
+               <hi>The Power</hi> Juridicent, <hi>or Law-speaking, muſt chiefly reſide in the Power Active, which formerly tied and obliged by Oath, not in the Power Paſſive, which was tied and obli<g ref="char:EOLhyphen"/>ged by Oath.</hi>
+            </p>
+            <pb n="4" facs="tcp:165730:4"/>
+            <p> 
+               <hi>The People are the Power Active, which formerly tied and obliged by Oath, our Kings to conſerve</hi> the juſt Laws &amp;c: <hi>which the People may heerafter chuſe.</hi>
+            </p>
+            <p>
+               <hi>Therefore, the Power</hi> Juridicent, or Lawſpeaking, <hi>muſt chiefly reſide in the People, their Repreſentatives or Truſtees.</hi>
+            </p>
+            <p>The <hi>major</hi> or precedent is manifeſt in Reaſon &amp; Law, betweene Covenanter and Covenantee; the minor or ſubſequent is evident by the words of the Oath. Se<g ref="char:EOLhyphen"/>condly, Power <hi>Juritenent</hi> or <hi>Law-adminiſtering,</hi> is orde<g ref="char:EOLhyphen"/>red <milestone type="tcpmilestone" unit="unspecified" n="2"/> to the Power <hi>Juridicent</hi> or <hi>Law-ſpeaking,</hi> as the meanes to the end (the leſſe noble to the more noble) for all Miniſters of Law from the higheſt to the loweſt are intended onely for conſervation of Law and Rule; but the Power <hi>Juridicent</hi> or Law-ſpeaking ordereth the Power <hi>Juritenent</hi> or Law-adminiſtering, as the cauſe, the meanes, (the more noble, the leſſe noble) for all Law-ſpeaking intendeth Law-adminiſtering for its owne conſervation, as aforeſayd.</p>
+            <p>Wherefore, I can not but marvell that ſome Divines by alleadging ſome Texts of Scripture appropriated to Kings, as they were Monarchs without qualification or tye by Oath to the people [not one Text of Scripture mentions that the Kings of Juda or Iſrael tooke, or were obliged to take an Oath to the People] ſhould perſwade this People or Nation of England, that they were, and ought to bee wholly devoted to the will and pleaſure of their Kings, and that in no caſe they might withſtand, or oppoſe their Commands, though de<g ref="char:EOLhyphen"/>ſtructive to their Fundamentall and Primitive Rights: Such men ſhould firſt conſider the nature and difference of Kings; for ſome Kings either by the Peoples admiſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="5" facs="tcp:165730:4"/> or by uſurpation had a domineering, or the high<g ref="char:EOLhyphen"/>eſt power (in civill or mundane affaires) both <hi>Juridi<g ref="char:EOLhyphen"/>cent</hi> or Law-ſpeaking, and <hi>Juritenent</hi> or Law-admini<g ref="char:EOLhyphen"/>ſtering; but the Kings of England had no ſuch, for they could make no Law at any time without the con<g ref="char:EOLhyphen"/>ſent of the Peoples Repreſentatives, <hi>&amp;c.</hi> and even in their <hi>Juritenent</hi> or Law-adminiſtering Power they were reſtrained and limited, and their proceedings were queſtionable by Parliament. And whereas ſome alleadge that Kings writ, and doe write themſelves Kings <hi>Dei gratia, &amp;c.</hi> And from thence they would in<g ref="char:EOLhyphen"/>fer that Kings are as it were ſpecially appoynted by God himſelfe, and no way intruſted by the People, or tyed or obliged to them; ſuch men are heerein greatly miſtaken, for the reaſon why Chriſtian Kings and Po<g ref="char:EOLhyphen"/>tentates write <hi>Dei gratia, &amp;c.</hi> Is, or ſhould bee, to ſhew their humility and thankes towards God, to acknow<g ref="char:EOLhyphen"/>ledge him the Authour (according to the Text, <hi>By mee Kings raigne)</hi> by his free gift, of their Dignity and Power, whether more or leſſe qualified and limited, and that they ſhould not arrogantly attribute their Dominion to themſelves, as either cauſers, or other<g ref="char:EOLhyphen"/>wiſe ſole deſervers of it, as did <hi>Nabucadonezer,</hi> ſaying, <hi>Is not this Babylon? &amp;c.</hi> As alſo <hi>Sapores</hi> the proud Perſi<g ref="char:EOLhyphen"/>an, with divers others; ſo doe ſome of the Aſian and African Monarchs, or rather Tyrants at this day. Thirdly, where the Power <hi>Juritenent</hi> or Law-admini<g ref="char:EOLhyphen"/>ſtering <milestone type="tcpmilestone" unit="unspecified" n="3"/> (being the leſſe noble) ſhall become deſtructive <hi>de facto</hi> (by irregular exorbitancy, or willfull defect) to the Power <hi>Juridicent</hi> or Law-ſpeaking (being the more noble) there the Power <hi>Juridicent</hi> may determine the Power <hi>Juritenent,</hi> and conſtitute and apply ſuch other
+<pb n="6" facs="tcp:165730:5"/> meanes as ſhall ſeeme convenient for <hi>ſelfe-preſervation,</hi> that being the very end of all Regulated Government.</p>
+            <p>If it bee ſayd, that ſometime the Power <hi>Juridicent</hi> (the People their Repreſentatives or Truſtees) hath er<g ref="char:EOLhyphen"/>red, and may erre in conſtituting and applying meanes for <hi>ſelfe-preſervation;</hi> It may ſometime be ſo, I grant it: but as beyond the higheſt Heaven there is no Mathe<g ref="char:EOLhyphen"/>maticall, or farther Dimenſion, ſo beyond a <hi>Nationall</hi> 
+               <note place="margin">Of Govern<g ref="char:EOLhyphen"/>ment gene<g ref="char:EOLhyphen"/>rally ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it<g ref="char:EOLhyphen"/>ted by the Nation.</note> 
+               <hi>conſtitution of Government,</hi> there ought to bee no farther Progreſſion Politicall, or farther Progreſſe, but all men of the ſame Nation ought therein to acquieſce: I ſhall conclude with this,</p>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>Supra Regis Diadema,</l>
+                     <l>Gentis ſalus Lex Suprema:</l>
+                     <l>Quin &amp; Parlamenti ſtatus</l>
+                     <l>Eſt ſaluti Gentis datus;</l>
+                     <l>Et à Gente fic creatus.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>WILLIAM BALL.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
